@@ -21,9 +21,9 @@
 title: Corinyuni
 email: yuniyolli@gmail.com
 description: >- #  "
- you guys also need to change _config.yml file that you can find in the local folder. In my case, I found it in 'corinyuni' directory. You need to add your url below. While you said that write an awesome description for my new site here, I cannot be awesome anyway after spending more than 24 hours for it. Using a new format or program always kills me.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yuniyolli.github.io/corinyuni" # the base hostname & protocol for your site, e.g. http://example.com
+ you guys also need to change _config.yml file that you can find in the local folder. In my case, I found it in 'corinyuni' directory. You need to add your url below. While you said that write an awesome description for my new site here, I cannot be awesome anyway after spending more than 24 hours on it. Using a new format or a new program always kills me.
+baseurl: "/corinyuni" # the subpath of your site, e.g. /blog
+url: "https://yuniyolli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  yuniyolli
 
