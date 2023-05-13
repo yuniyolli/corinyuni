@@ -1,0 +1,3 @@
+[submodule "corinyuni"]
+	path = corinyuni
+	url = https://github.com/yuniyolli/corinyuni.git
